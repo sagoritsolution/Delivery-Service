@@ -1,0 +1,6 @@
+{
+  "name": "Khulna Express - All-in-One Delivery",
+  "description": "খুলনায় আপনার প্রয়োজনীয় সবকিছু, এখন ঘরে বসেই! রেস্টুরেন্টের খাবার, কাঁচাবাজার, মুদি পণ্য কিংবা কাস্টম শপিং—আমরা পৌঁছে দেব আপনার ঠিকানায়।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
